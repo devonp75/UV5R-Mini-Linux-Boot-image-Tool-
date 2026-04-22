@@ -209,3 +209,12 @@ UV5RMiniBootFlasher.AppDir/
 appimagetool-x86_64.AppImage
 *.AppImage
 *.rgb565
+
+uv5rmini_boot.bmp
+uv5rmini_boot.rgb565
+UV5RMiniBootFlasher.AppDir/
+build/
+dist/
+tools/
+*.AppImage
+*.spec
