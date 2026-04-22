@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+UV5RMiniBootFlasher.AppDir/
+appimagetool-x86_64.AppImage
+*.AppImage
+*.rgb565
